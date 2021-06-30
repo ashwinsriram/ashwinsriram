@@ -8,12 +8,8 @@
 Hi! My name is Ashwin Sriram and I am a developer interested in full stack apps using technologies such as React and Angular, as well as cybersecurity! I'm always working on new projects, and some of my current projects are public in my GitHub!
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwinsriram&count_private=true&hide=issues,contribs&bg_color=0A1931&border_color=000000&text_color=EFEFEF&title_color=185ADB" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinsriram&bg_color=0A1931&border_color=000000&text_color=EFEFEF&title_color=185ADB&layout=compact" />
-</a>
 </p>
 
 <h2 align="center">🛠️ Platforms</h2>
