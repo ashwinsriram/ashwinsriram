@@ -13,7 +13,7 @@ Hi! My name is Ashwin Sriram and I am a developer interested in full stack apps 
 </p>
 
 <p align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashwinsriram&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ashwinsriram&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 <h2 align="center">🛠️ Platforms</h2>
