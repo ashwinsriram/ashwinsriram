@@ -12,7 +12,9 @@ Hi! My name is Ashwin Sriram and I am a developer interested in full stack apps 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinsriram&bg_color=0A1931&border_color=000000&text_color=EFEFEF&title_color=185ADB&layout=compact" />
 </p>
 
+<p align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashwinsriram&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</p>
 
 <h2 align="center">🛠️ Platforms</h2>
 
