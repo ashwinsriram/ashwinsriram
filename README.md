@@ -7,10 +7,7 @@
 
 Hi! My name is Ashwin Sriram and I am a developer interested in full stack apps using technologies such as React and Angular, as well as cybersecurity! I'm always working on new projects, and some of my current projects are public in my GitHub!
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwinsriram&count_private=true&hide=issues,contribs&bg_color=0A1931&border_color=000000&text_color=EFEFEF&title_color=185ADB" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinsriram&bg_color=0A1931&border_color=000000&text_color=EFEFEF&title_color=185ADB&layout=compact" />
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwinsriram&count_private=true&hide=issues,contribs&bg_color=0A1931&border_color=000000&text_color=EFEFEF&title_color=185ADB" />
 
 <p align="center">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ashwinsriram&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D" />
